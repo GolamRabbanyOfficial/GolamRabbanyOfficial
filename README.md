@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Cyber Security and CTFs**
 
-- 📄 Know about my experiences ["working on it"]("working on it")
+- 📄 Know about my experiences "working on it"
 
 - ⚡ Fun fact **Still trying to figure out how to solve the unsloved errors.**
 
