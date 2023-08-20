@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Golam Rabbany</h1>
 <h3 align="center">A cybersecurity professional and content creator.</h3>
 
-- 🔭 I’m currently working on **Linux rice**
+- 🔭 I’m currently working on **Splunk Cyber Defense Analyst Exam Prep**
 
 - 🌱 I’m currently learning **Python, Cryptography, JavaScript**
 
