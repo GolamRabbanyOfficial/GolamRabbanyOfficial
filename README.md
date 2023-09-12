@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Golam Rabbany</h1>
 <h3 align="center">A cybersecurity professional and content creator.</h3>
 
-- 🔭 I’m currently working on **Substack Article**
+- 🔭 I’m currently working on **AWS Cloud Practitioner CLF-C02**
 
-- 🌱 I’m currently learning **Python, Cryptography, JavaScript**
+- 🌱 I’m currently learning **Python, Cryptography, Cloud**
 
 - 👨‍💻 All of my projects are available at [Github.](https://github.com/GolamRabbanyOfficial)
 
