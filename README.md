@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Golam Rabbany</h1>
 <h3 align="center">A cybersecurity professional and content creator.</h3>
 
-- 🔭 I’m currently working on **AWS Cloud Practitioner CLF-C02**
+- 🔭 I’m currently working on **Azure SC-200**
 
 - 🌱 I’m currently learning **Python, Cryptography, Cloud**
 
